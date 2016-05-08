@@ -1,1 +1,5 @@
-requirement_py2.txt
+Django==1.9.2
+oauthlib==1.1.1
+requests==2.10.0
+requests-oauthlib==0.6.1
+twython==3.4.0
